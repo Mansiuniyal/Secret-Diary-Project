@@ -6,3 +6,7 @@ Advantages over physical diary-
 2) Can be accessed anytime and anywhere.
 
 This project uses PHP, MySQL, HTML, CSS, JavaScript, JQuery ,Bootstrap and Ajax.
+
+![Screenshot (585)](https://user-images.githubusercontent.com/85786030/158156524-f221ff82-b0e0-4904-8303-5c75dc05c587.png)
+![Screenshot (586)](https://user-images.githubusercontent.com/85786030/158156588-9dd70be4-7a6b-405b-b8d5-b5912613f763.png)
+
